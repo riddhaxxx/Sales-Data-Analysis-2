@@ -69,6 +69,3 @@ Build predictive sales forecasting model using Machine Learning
 * Author
  Riddhi Agre
 
-Riddhi Agre
-
-Aspiring Data Science Student | Python | SQL | Data Analysis
